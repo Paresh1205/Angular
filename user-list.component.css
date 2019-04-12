@@ -1,0 +1,16 @@
+div{
+    text-align: left;
+    border: 1px solid black;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+li>h3>a{
+    text-decoration: none;
+    color: gray;
+}
+li>h3>a:hover{
+    color: red;
+}
